@@ -33282,6 +33282,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clientennota-webnl.ddns.info
 
 # Added June 25, 2025
+0.0.0.0 stats.g.doubleclisk.net
 0.0.0.0 afs.googlesyndication.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analytics.s3.amazonaws.com
